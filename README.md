@@ -18,3 +18,7 @@ Training uses normal transactions only. The median and median absolute deviation
 ## Resume description
 
 Built a reproducible Python demo for synthetic payment anomaly detection with robust feature scoring, validation threshold selection, and holdout precision/recall/F1 evaluation.
+
+## Source
+Imported from https://github.com/gurijalachaitanya483-web/transaction-anomaly-lab.
+
